@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Banca Personal</string>
+
+    <string name="preference_name">PREF_BANCA_PERSONAL</string>
+
+    <string name="prompt_nombre">Nombre</string>
+    <string name="prompt_apellido_paterno">Apellido Paterno</string>
+    <string name="prompt_apellidos">Apellidos</string>
+    <string name="prompt_apellido_materno">Apellido Materno</string>
+    <string name="prompt_contrasenia">Contraseña</string>
+    <string name="prompt_telefono">Telefono</string>
+    <string name="prompt_correo_electronico">Correo</string>
+
+    <string name="action_register">Register</string>
+
+    <string name="action_add_client">Agregar Cliente</string>
+    <string name="action_close">Cerrar</string>
+
+    <string name="action_about">Acerca de </string>
+
+    <string name="facebook_app_id">619695718223910</string>
+    <string name="title_activity_onboarding_dos">Onboarding_dos</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">%1$s financiero </string>
+
+    <string name="advertencia_permisos">Es necesario proporcionar permisos para utilizar la aplicación</string>
+
+
+
+</resources>
