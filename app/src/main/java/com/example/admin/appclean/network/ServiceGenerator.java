@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ServiceGenerator {
 
-    public static String apiBaseUrl = "https://apiaa.herokuapp.com";
+    public static String apiBaseUrl = "";
 
 
     private static OkHttpClient okHttpClient = new OkHttpClient.Builder()
